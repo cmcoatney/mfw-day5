@@ -1,0 +1,26 @@
+.footer {
+  height: 10vh;
+}
+
+.panel {
+  background-color: gold;
+}
+
+.jumbo {
+  height: 250px;
+}
+
+.tall {
+  height: 200px;
+}
+.small {
+  height: 100px;
+}
+
+.short {
+  height: 92px;
+}
+
+ul {
+  list-style-type: none;
+}
