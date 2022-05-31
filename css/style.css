@@ -24,3 +24,14 @@
 ul {
   list-style-type: none;
 }
+
+.square div {
+    display: inline-flex;
+    height: 100px;
+    width: 100px;
+    background-color: lightgray;
+}
+
+.rounded-pill {
+    width: 200px !important;
+}
